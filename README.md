@@ -7,6 +7,8 @@ I created a document for GHC handson workshop attendees containing the following
 2. Steps to Setup Environment
 3. Categorized tasks from Beginners to Advanced level.
 
+#### Link: http://systers.org/systers-dev/doku.php/ghc14systers:plt
+
 ## Result
 One student succeeded in solving one task.
 Commit- https://github.com/systers/language-translation/commit/ad6a845dc4f055fe326f94987f22627e23859df2
