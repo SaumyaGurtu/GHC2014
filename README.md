@@ -9,4 +9,4 @@ I created a document for GHC handson workshop attendees containing the following
 
 ## Result
 One student succeeded in solving one task.
-Commit- https://github.com/SaumyaGurtu/language-translation/commit/ad6a845dc4f055fe326f94987f22627e23859df2
+Commit- https://github.com/systers/language-translation/commit/ad6a845dc4f055fe326f94987f22627e23859df2
